@@ -11,3 +11,5 @@
 為評估壓縮效能與還原品質，峰值訊噪比(Peak Signal-to-Noise Ratio,PSNR)作為品質指標，並以每像素位元數(Bits Per Pixel, BPP)衡量壓縮效率。PSNR用於定量評估壓縮導致的失真程度，而BPP則表徵壓縮後的數據儲存需求。
 ## (6) 多參數測試
 實驗設計包含多組不同參數組合，涵蓋VQ區塊大小與聚類數量(n_clusters)。每組參數對應一次完整壓縮與還原過程，並記錄其PSNR與BPP值。
+## 影片
+https://youtu.be/g-4O1q5FuMo
